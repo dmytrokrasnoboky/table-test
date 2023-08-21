@@ -1,0 +1,14 @@
+.status-container {
+  position: relative;
+}
+
+.status-options {
+  position: absolute;
+  z-index: 10;
+  right: 0;
+  left: 0;
+  box-sizing: border-box;
+  padding: 0 16px;
+  top: 50%;
+  transform: translateY(-50%);
+}
